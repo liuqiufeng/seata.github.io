@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkseata_website=self.webpackChunkseata_website||[]).push([[48775],{76268:e=>{e.exports=JSON.parse('{"permalink":"/seata.github.io/zh-cn/blog/page/2","page":2,"postsPerPage":10,"totalPages":6,"totalCount":56,"previousPage":"/seata.github.io/zh-cn/blog","nextPage":"/seata.github.io/zh-cn/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
